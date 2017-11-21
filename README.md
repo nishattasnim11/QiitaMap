@@ -5,5 +5,5 @@ Following online tutorial http://geog.uoregon.edu/bartlein/courses/geog490/week0
 
 ##NiceMap_Sep122017.R and QIITACoordinates.csv dataset and output imaged uploaded
 
-
+![My image](https://github.com/nishattasnim11/QiitaMap/blob/master/NT_QIITA_nsamp.pdf)
 
