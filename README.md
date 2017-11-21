@@ -3,7 +3,7 @@ Robinson projection map of selected gut and soil studies from Qiita for Frontier
 
 Following online tutorial http://geog.uoregon.edu/bartlein/courses/geog490/week07-RMaps.html
 
-##NiceMap_Sep122017.R and QIITACoordinates.csv dataset and output imaged uploaded
+##NiceMap_Sep122017.R and QIITACoordinates.csv dataset and output images (.jpg and .pdf) uploaded
 
 ![My image](https://github.com/nishattasnim11/QiitaMap/blob/master/Mapimage.jpg)
 
